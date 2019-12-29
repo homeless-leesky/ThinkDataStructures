@@ -1,5 +1,5 @@
 # ThinkDataStructures
-**This repository is just a study repository.** <br><br> 
+**This repository is just a study repository.** <br>
 
 **Learning Objectives :**
 
