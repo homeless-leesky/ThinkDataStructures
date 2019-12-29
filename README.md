@@ -1,4 +1,21 @@
 # ThinkDataStructures
+**This repository is just a study repository.** <br><br> 
+
+**Learning Objectives :**
+
+     1. MAIN(핵심 목표)
+         - 자바를 이용해 핵심 자료구조와 알고리즘을 익힌다.
+         - 알고리즘을 분석하는 방법을 익힌다.
+         - 자료구조와 알고리즘을 활용하여 간단한 웹 검색 엔진을 만든다.
+     2. SUB(부수적 효과)
+        - 자바 코드 이해도 향상
+        - Junit을 통한 테스트 주도개발(TDD)
+        - 자바기반의 Apache Ant를 이용해 빌드 자동화를 익힌다.
+        
+<img src="./img/thinkImg.jpg"/>
+
+
+<hr>
 
 LaTeX source and supporting code for *Think Data Structures: Algorithms and Information Retrieval in Java*
 
