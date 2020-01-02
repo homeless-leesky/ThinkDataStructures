@@ -1,6 +1,9 @@
 # ThinkDataStructures
 **This repository is just a study repository.** <br>
 
+<img src="./img/thinkImg.jpg"/>
+
+
 **Learning Objectives :**
 
      1. MAIN(핵심 목표)
@@ -13,7 +16,6 @@
         - Junit을 통한 테스트 주도개발(TDD)
         - 자바기반의 Apache Ant를 이용해 빌드 자동화를 익힌다.
         
-<img src="./img/thinkImg.jpg"/>
 
 
 <hr>
